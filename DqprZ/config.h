@@ -6,7 +6,7 @@
 
 #define USB_SUSPEND_WAKEUP_DELAY 0
 #define CAPS_LOCK_STATUS
-#define SERIAL_NUMBER "DqprZ/B4NLpB"
+#define SERIAL_NUMBER "DqprZ/PBpboX"
 #define LAYER_STATE_16BIT
 #define COMBO_COUNT 9
 
